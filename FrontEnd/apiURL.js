@@ -1,0 +1,1 @@
+export let apiURL = "http://localhost:5678/api/";
